@@ -1,0 +1,15 @@
+.color-text{
+  color:  rgb(44, 62, 80);
+  }
+  .bg-line{
+    background-color: rgb(44, 62, 80);
+  }
+  .bg-backgorund
+  {
+    background-color: #FFFFFF;
+  }
+
+.line {
+    height: 4px;
+    width: 80px;
+  }

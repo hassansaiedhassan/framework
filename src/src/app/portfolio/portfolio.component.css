@@ -1,0 +1,36 @@
+.line {
+  height: 4px;
+  width: 80px;
+}
+
+.layer {
+    background-color: #1abc9c6b;
+    opacity: 0;
+    cursor: pointer;
+    transition: .6s opacity;
+}
+.layer:hover{
+  opacity:1;
+
+}
+.color-text{
+color:  rgb(44, 62, 80);
+}
+.bg-line{
+  background-color: rgb(44, 62, 80);
+}
+.bg-backgorund
+{
+  background-color: #FFFFFF;
+}
+.model {
+  z-index: 9999;
+}
+.bg-opacity-25 {
+  --bs-bg-opacity: .25;
+}
+
+img{
+  width: 600px;
+
+}

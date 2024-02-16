@@ -1,0 +1,17 @@
+.bg-navColor
+{
+  background-color: #2C3E50;
+}
+.text-nav{
+  color: white;
+}
+a
+{
+  color: inherit;
+}
+
+.active
+{
+  background-color: #16b596;
+ 
+}
